@@ -1,7 +1,6 @@
+from settings import Settings
 import sys
 import pygame
-
-from settings import Settings
 
 class AlienInvasion:
     """Overall class to manage game assets and behavior."""
